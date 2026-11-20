@@ -1,4 +1,4 @@
-# openforallofus-com
+# OpenForAllOfUs
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-openforallofus-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://openforallofus.com/
+OpenForAllOfUs operates the Agora platform, a search engine for MCP servers and tools used by AI agents. Founded by the team behind Verax and run by VERAX Teknoloji Limited Şirketi, the project provides open data on tool availability, ranking servers by reliability, and offers transparent privacy with no accounts or cookies. The service is open‑source under Apache‑2.0 and invites contributions via its GitHub repository. Contact is hello@openforallofus.com.
+
+**Areas:** AI · Search · OpenData · Privacy · OpenSource
+
+## OpenForAllOfUs on APIs.io
+
+Everything profiled for OpenForAllOfUs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/openforallofus-com/](https://apis.io/providers/openforallofus-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Agora MCP Registry](https://apis.io/apis/openforallofus-com/agora-mcp-registry/) — MCP server registry providing status and tool listings for AI agents. No OpenAPI spec is published; only MCP endpoints are available.
+- [OpenForAllOfUs API](https://apis.io/apis/openforallofus-com/openforallofus-com-api/) — OpenForAllOfUs API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-20); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostApiReportRequest](https://apis.io/schemas/openforallofus-com/openforallofus-com-post-api-report-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Openforallofus Com Context](https://apis.io/jsonld/openforallofus-com/openforallofus-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [OpenForAllOfUs API Rules](https://apis.io/rules/openforallofus-com/openforallofus-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [OpenForAllOfUs Domain Security](https://apis.io/security/openforallofus-com/openforallofus-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://openforallofus.com/)
+- [Documentation](https://openforallofus.com/about)
+- [Getting started](https://openforallofus.com/tools/io.github.smarterweather/onboarding)
+- [API reference](https://openforallofus.com/tools/ai.beexcellent/reference)
+- [Pricing](https://openforallofus.com/tools/ai.last-price/pricing)
+- [Blog](https://openforallofus.com/tools/ai.radixia/blog)
+- [Security](https://openforallofus.com/topics/security)
+- [Privacy policy](https://openforallofus.com/about)
+- [GitHub](https://github.com/dogrucanemek-alt/agora)
+
+## API Evangelist rating
+
+**Kin Score 42.0** — developing · rubric 0.27.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 40.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 19.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/openforallofus-com/](https://apis.io/providers/openforallofus-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OpenForAllOfUs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/openforallofus-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
